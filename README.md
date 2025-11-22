@@ -4,9 +4,6 @@
 Este projeto demonstra a aplicação de técnicas de **Otimização Combinatória** e **Meta-Heurísticas** para maximizar o lucro no transporte de cargas.  
 Dado um conjunto de itens — cada um com **peso**, **volume** e **valor** — o objetivo é selecionar aqueles que ofereçam o **maior lucro possível**, respeitando as limitações físicas do veículo.
 
-A imagem a seguir ilustra o conjunto de dados utilizado no estudo:
-
-`/mnt/data/f9af1863-c5a2-4170-a617-8bc263dc57b2.png`
 
 ---
 
