@@ -132,21 +132,3 @@ Resultados reais obtidos durante os experimentos:
 
 ---
 
-## 🧩 Valor do Projeto para Portfólio
-
-Este trabalho demonstra:
-
-- Capacidade de modelagem matemática avançada  
-- Domínio de meta-heurísticas e algoritmos de otimização  
-- Conhecimento de problemas NP-hard aplicados à logística  
-- Comparação quantitativa entre métodos distintos  
-- Capacidade de estruturar e analisar soluções complexas  
-- Clareza na comunicação técnica para projetos profissionais  
-
----
-
-## 📜 Observação Final
-
-Este projeto não é um produto final pronto para produção —  
-ele foi construído para fins **didáticos**, **acadêmicos** e como **prova de domínio técnico** em otimização, logística e inteligência computacional.
-
